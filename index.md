@@ -1,2 +1,3 @@
 # hello world
-Click [here](chicken.md) to see my cow page!
+Daniel Mikhail
+[click here for resume](danmikhailresumeFinal.md)
